@@ -13,11 +13,7 @@ public class Classes {
 
 
     public static List<String> getClasses() {
-        List<String> list = new ArrayList<>();// = new ArrayList<String>();
-
-        for (String charClass : CLASSES.keySet()) {
-            list.add(charClass);
-        }
+        List<String> list = new ArrayList<>(CLASSES.keySet());
         Collections.sort(list);
 
         return list;
@@ -28,6 +24,17 @@ public class Classes {
     }
 
     public static void init() {
+//        código para banco de dados
+//        for (int i = 0; i < axios.length; i++) {
+//            CharClass cc = new CharClass();
+//            cc.setBonusDex(2);
+//            cc.setBonusInt(2);
+//            cc.putBonusPro("ADAGAS", 2);
+//            cc.putBonusPro("FACAS", 2);
+//            cc.putBonusPro("ARCOS", 2);
+//            Classes.CLASSES.put(String.valueOf("Caçador"), cc);
+//        }
+
         // creating classes
         CharClass hunter = new CharClass();
         hunter.setBonusDex(2);
