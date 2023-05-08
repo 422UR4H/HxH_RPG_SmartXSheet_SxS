@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HxH_Char_Smart_Sheet</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="class_hunter">Caçador</string>
+    <string name="class_chimera">Chimera</string>
+    <string name="class_swordsman">Espadachim</string>
+    <string name="class_gambler">Gambler</string>
+    <string name="class_thief">Gatuno</string>
+    <string name="class_illusionist">Ilusionista</string>
+    <string name="class_mobster">Mafioso</string>
+    <string name="class_military">Militar</string>
+    <string name="class_ninja">Ninja</string>
+    <string name="class_samurai">Samurai</string>
+    <string name="class_magicBeast">Besta Mágica</string>
+    <string name="class_magicWeapon">Arma Mágica</string>
+    <string name="class_recordist">Recordista</string>
+    <string name="class_cientist">Cientista</string>
+    <string name="class_circus">Circense</string>
+    <string name="class_collector">Colecionador</string>
+    <string name="class_netrunner">Netrunner</string>
+    <string name="class_genius">Gênio</string>
+    <string name="class_amateurHunter">Hunter Amador</string>
+    <string name="class_terrorist">Terrorista</string>
+    <string name="class_monk">Monge</string>
+    <string name="class_tribal">Tribal</string>
+    <string name="class_kuruta">Kuruta</string>
+    <string name="class_experiment">Experimento</string>
+    <string name="class_pirate">Pirata</string>
+    <string name="class_mercenary">Mercenário</string>
+    <string name="class_weaponsMaster">Mestre de Armas</string>
+    <string name="class_animal">Animal</string>
+
+</resources>
